@@ -15,7 +15,7 @@ dependencies = [
 ]
 
 [project.optional-dependencies]
-dev = ["pytest>=8.0", "ruff>=0.3"]
+dev = ["pytest>=8.0", "ruff>=0.15.20"]
 
 [tool.ruff]
 line-length = 100
