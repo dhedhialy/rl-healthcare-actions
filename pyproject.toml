@@ -4,7 +4,7 @@ version = "0.1.0"
 requires-python = ">=3.9"
 dependencies = [
     "pandas>=2.1",
-    "polars>=0.20",
+    "polars>=1.42.1",
     "pyarrow>=14.0",
     "sqlalchemy>=2.0",
     "psycopg2-binary>=2.9",
